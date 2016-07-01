@@ -16,7 +16,15 @@
     "tether"
   ],
   "license": "MIT",
-  "main": "dist/js/drop.js",
+  "main": [
+    "dist/js/drop.js",
+    "dist/css/drop-theme-arrows.css",
+    "dist/css/drop-theme-arrows-bounce.css",
+    "dist/css/drop-theme-arrows-bounce-dark.css",
+    "dist/css/drop-theme-basic.css",
+    "dist/css/drop-theme-hubspot-popovers.css",
+    "dist/css/drop-theme-twipsy.css"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
